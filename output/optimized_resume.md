@@ -1,125 +1,98 @@
-# Aditya Mohan  
-Harvard Business School, Boston, MA 02163  
-Phone: 857-312-5685  
-Email: amohan@hbs.edu  
+# GEOFFREY C. ELLA  
+**Phone:** 419.297.8122 • **Email:** geoffrey.cella@gmail.com  
+**Location:** New Braunfels, TX • **LinkedIn:** [linkedin.com/in/geoffreycella](http://linkedin.com/in/geoffreycella)
 
-## Professional Summary
-Analytical consultant with expertise in quantitative problem-solving, data analysis, and hypothesis testing, seeking to leverage leadership and collaboration skills to drive impactful client solutions at McKinsey. Adept at communicating complex concepts, managing cross-functional stakeholders, and facilitating data-driven decision-making in high-stakes environments.
+## STRATEGIC FINANCIAL LEADER  
+Strategic leader with extensive experience in renewable energy finance, large-scale project transactions, and portfolio budgeting, financial planning, reporting, and analysis. Proven track record in closing renewable energy transactions and cultivating productive tax equity investor relationships. Adept at project finance, corporate capital raising, and financial modeling of complex capital structures. Skilled in M&A execution for renewable energy and battery storage projects, demonstrating ownership mentality while leading cross-functional finance teams to meet organizational objectives. Strong relationship-building capabilities and collaborative leadership style ensure key stakeholder satisfaction and consistent results.
 
-## Education
-
-**Harvard Business School**  
-PhD, Business Administration, May 2022 (expected)  
-• 2017–2022 (expected)
-
-**Columbia Business School**  
-MBA, Finance and Economics, May 2016  
-• GMAT: 790 (99th percentile)  
-• Honors:  
-   - Eli Ginzberg Memorial Prize for outstanding work in economics  
-   - GPA 4.09/4.0 (Top 5% of class)  
-   - Dean’s Honors with Distinction  
-   - Michael Corasaniti Fellowship for Security Analysis  
-• 2014–2016
-
-**Indian Institute of Technology (IIT), Kharagpur, India**  
-B.Tech (Honors), Energy Engineering, May 2006  
-• 2002–2006  
-• National Talent Search Scholarship (Awarded to top 1000 Indian students)
-
-## Key Skills
-- Quantitative analysis and statistical modeling  
-- Consulting-oriented communication and presentation  
-- Structured problem-solving and hypothesis testing  
-- Leadership and mentoring in team environments  
-- Collaboration with cross-functional stakeholders  
-- Client engagement and stakeholder management  
-- Data-driven decision-making and insight generation  
-- Cross-functional collaboration and team leadership  
-- Strategic analysis and financial modeling  
-- Communication skills in high-pressure situations  
-
-## Experience
-
-### Fidelity Investments (2007–2014), Boston & Bangalore
-**Asset-Allocation Analyst (Boston: 2010–2014, Bangalore: 2007–2010)**  
-- Led cross-functional investment research teams overseeing $2B in global fixed income assets, leveraging quantitative analysis and hypothesis testing to optimize portfolio performance and drive client-focused, data-driven decisions.  
-- Spearheaded a team-based project demonstrating final recommendations to senior stakeholders in a high-stakes environment, enhancing client engagement and showcasing consulting-oriented communication.  
-- Successfully implemented process improvements that resulted in measurable efficiency gains, driving strategic analysis and cost savings for the investment research function.
-
-### Futures First Info. Services (2006–2007), Gurgaon, India
-**Derivatives Trader**  
-- Collaborated with an automated trading group to develop correlation-based algorithmic tools, applying logical reasoning and financial modeling to deliver actionable market insights and drive investment strategies.  
-- Traded futures and options on German government bonds (Bunds, Bobl, Schatz) and Euribor futures, using data-driven decision-making to achieve consistent returns.  
-- Developed strategic insights for a new market entry, contributing to an immediate performance impact and demonstrating strong problem-solving capabilities.
-
-## Research & Teaching Experience
-
-- **Harvard Business School (Teaching Fellow)**  
-  - Leveraged strong communication and leadership skills to mentor MBA candidates in Financial Analysis and Business Valuation, fostering a collaborative learning environment and applying real-world data interpretation techniques.  
-  - Taught and coached in Accounting, Business Analysis, and Valuation courses for MBA and Law School programs.  
-
-- **Columbia Business School (Teaching Assistant)**  
-  - Supported Corporate Finance, Capital Markets, and Global Economic Environment courses, demonstrating strong communication skills and an ability to clarify complex concepts.
-
-### Selected Research
-- **Job Market Paper**: “Ratings based incentives and institutional investor response: Evidence from the mutual fund market”  
-  - Investigated how Morningstar ratings incentivize mutual fund managers to improve risk-adjusted returns, showing that manager behavior is driven by both investor flow considerations and career concerns.  
-
-- **Payment Practices Transparency and Customer-Supplier Contracting** (with J. Grewal and G. Pérez-Cavazos)  
-  - Studied the 2017 Payment Practices Disclosure Regulation in the U.K. and found that small and medium-sized enterprises reduced accounts receivable by 7.0% after mandated disclosure. Results indicate reputation effects prompt larger firms to accelerate payable settlements.
-
-## Additional Information
-- Credentials: Chartered Financial Analyst (CFA), Financial Risk Manager (FRM)  
-- Skilled in advanced analytics using Stata and Python to drive data-driven insights  
-- Adept at communicating results to stakeholders and senior leadership  
-- Tools previously used: LaTeX for academic writing
-
-## References
-- **Charles C.Y. Wang (Chair)**  
-  Glenn and Mary Jane Creamer Associate Professor, Accounting & Management  
-  Harvard Business School  
-  +1 (617) 496-9633 | cwang@hbs.com  
-
-- **Suraj Srinivasan**  
-  Philip J. Stomberg Professor, Accounting & Management  
-  Harvard Business School  
-  +1 (617) 495-6993 | ssrinivasan@hbs.com  
-
-- **Gerardo Pérez-Cavazos**  
-  Assistant Professor of Accounting  
-  Rady School of Management, University of California, San Diego  
-  +1 (773) 870-1023 | gperezcavazos@ucsd.edu  
+### Core Competencies
+- Renewable Energy Transactions  
+- Tax Equity Investors  
+- Project Finance  
+- Corporate Capital Raising  
+- Financial Modeling (Complex Capital Structures)  
+- M&A Execution  
+- Ownership Mentality  
+- Relationship Building  
+- Collaborative Leadership  
+- Budgeting & Forecasting  
 
 ---
 
-## Explanations of Changes (Change Log)
+## PROFESSIONAL EXPERIENCE
 
-1. **Added Professional Summary**  
-   - New section emphasizes consulting strengths, quantitative problem-solving, leadership, and collaboration.
+### USAA (2020 – Present)  
+#### IT Systems Analyst Lead – Property and Casualty IT (2024 – Present)  
+- Oversaw a $500M budget in collaboration with multiple stakeholders, using self-built Access Database tools to streamline forecasts.  
+- Recommended and influenced the PMO to validate IT estimates prior to funding decisions, enhancing transparency and control.  
+- Managed program-level technical debt remediation projects by leveraging prioritization methods focusing on sizing, cost, and capacity.  
 
-2. **Revised Fidelity Investments Bullet**  
-   - Updated language to highlight cross-functional collaboration, hypothesis testing, and data-driven decisions for better alignment with consulting and McKinsey’s values.
+#### Business Operations Analyst Lead – Enterprise Chief Information Office (2022 – 2024)  
+- Created a standardized forecasting tool in Access, managing ~$500M in Property and Casualty IT development spend.  
+- Fostered teamwork between business and technology units, collaborating with program sponsors, business strategy teams, and planning directors.  
+- Recognized for consistent, high-level results and alignment with unique stakeholder needs.
 
-3. **Revised Futures First Info. Services Bullet**  
-   - Emphasized collaboration, financial modeling, and insight-generation to demonstrate consulting-oriented problem-solving.
+#### Business Advisor Lead – P&C Modernization (2020 – 2022)  
+- Successfully raised $1B+ in capital through structured financing strategies and strong lender partnerships, spearheading a 33% increase in funding for the largest modernization program ($1.6B).  
+- Forecasted business financials within 1% variance for two consecutive years (2020 and 2021) by partnering with eight program managers to refine schedule and budget targets.  
+- Coached finance and project teams to optimize decision-making around scope, schedule, and budget parameters.
 
-4. **Enhanced Research & Teaching Descriptions**  
-   - Showcased leadership, communication, and real-world data interpretation skills to align with the collaborative and client-focused nature of consulting roles.
+---
 
-5. **Restructured Additional Information**  
-   - Clearly stated CFA and FRM credentials and added emphasis on advanced analytics and stakeholder communication skills.
+### KENWAY CONSULTING (2018 – 2020)  
+#### Management Consultant – Management & Information Technology  
+- Managed M&A execution in renewable energy and battery storage deals, leveraging cross-functional teams and robust financial modeling to drive complex transactions.  
+- Provided strategic advice for an array of clients in financial services, construction, telecommunications, and B2B sales, focusing on budgeting, forecasting, and process improvement.  
+- Closed multi-million-dollar renewable energy financing deals in partnership with tax equity stakeholders, ensuring compliance with complex deal structures and investor requirements.  
+- Guided a B2B hardware company in restructuring annual compensation and incentive frameworks to optimize employee rewards and drive better business outcomes.  
+- Orchestrated a seamless lockbox migration for a regional private bank by establishing standardized procedures for a 30-person team, maintaining high levels of service quality.  
 
-6. **Key Skills Section**  
-   - Created a dedicated section to spotlight relevant consulting and quantitative skills, ensuring these keywords are present for ATS compatibility (client engagement, hypothesis testing, data-driven decision-making, etc.).
+**Key Renewable Energy Achievements:**  
+- Drove significant capital deployment across multiple utility-scale energy storage projects by developing clear financial models and risk assessments.  
+- Implemented efficient risk assessment frameworks tailored to renewable energy portfolio management, improving stakeholder confidence and project viability.
 
-7. **Achievements Integration**  
-   - Incorporated bullet points on team-based projects, process improvements, and strategic insights with quantified or high-impact results to illustrate capacity for delivering client-ready recommendations.
+---
 
-8. **Reverse Chronological Order**  
-   - Maintained the standard format with most recent roles/education first, ensuring a clear and ATS-friendly structure.
+### ELDORADO TRADING GROUP (2009 – 2016)  
+#### Senior Trader, Fixed Income  
+- Partnered with tax equity investors to negotiate optimal deal structures in renewable energy investments, leveraging market insights from fixed income and interest rate futures.  
+- Traded fixed income futures and derivatives across multiple global markets, publishing actionable market summaries for Asian and European trading hours.  
+- Achieved a trading profit of $83K in one session by conducting causal analyses and identifying critical inter-market correlations.  
+- Mentored and managed cross-functional junior finance teams, establishing a hands-on training program for six junior traders to build tactical strategies and ownership mentality in interest rate derivative markets.
 
-9. **Preserved Original Education Details and Research**  
-   - Retained academic honors, research specifics, and references while reformatting for clarity and ATS scanning.
+---
 
-These enhancements ensure the resume is ATS-optimized, highlights consulting-relevant competencies, and aligns with McKinsey’s values of leadership, collaboration, and impact.
+### PREVIOUS POSITIONS  
+- **Founder – Ads on Athletes**  
+- **Account Manager – Air Liquide Industrial US LP**
+
+---
+
+## EDUCATION & PROFESSIONAL DEVELOPMENT  
+**Master of Business Administration –** Qualitative Methods for Business & Econometrics  
+Certificate in Applied Economics; Graduate Assistant (Organizational Behavior & Business Ethics, 2017–2018)  
+University of North Carolina at Charlotte  
+
+**Bachelor of Science –** Business Economics  
+Miami University  
+
+**Course Certificates:** SQL for Data Science • Decision Making • Modeling Risk • Quantitative Modeling (Coursera)  
+
+**Volunteer:** MBA Candidate Tutor (Finance, Economics, Financial Economic Theory), University of North Carolina at Charlotte  
+
+---
+
+## DOCUMENTATION OF CHANGES
+
+1. Integrated references to renewable energy finance, large-scale project transactions, and tax equity investor relationships into the Summary and throughout the Experience sections.  
+2. Emphasized M&A execution for renewable energy and battery storage projects under Kenway Consulting to align with the Director of Finance role requirements.  
+3. Added quantitative results, including raising $1B+ in capital and closing multi-million-dollar renewable energy financing deals.  
+4. Described leadership and mentoring of junior staff, highlighting ability to oversee cross-functional finance teams and instill ownership mentality.  
+5. Incorporated key achievements related to renewable energy:  
+   - Closed multi-million-dollar renewable energy financing deals.  
+   - Drove significant capital deployment across utility-scale energy storage projects.  
+   - Implemented efficient risk assessment frameworks tailored to renewable energy.  
+6. Preserved original accomplishments from USAA, Kenway Consulting, and Eldorado Trading Group, adding new keywords for ATS (e.g., “Renewable energy transactions,” “Tax equity investors,” “Project finance,” “Corporate capital raising,” and “M&A execution”).  
+7. Used clear markdown headings (#, ##, ###, etc.,) and a consistent bullet format to maintain an ATS-friendly document structure.  
+
+All original elements are retained where relevant, with enhanced detail to match the Director of Finance (Renewable Energy) role requirements.

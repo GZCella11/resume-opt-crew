@@ -2,7 +2,7 @@ from crewai import Agent, Crew, Process, Task, LLM
 from crewai.project import CrewBase, agent, crew, task
 from crewai_tools import SerperDevTool, ScrapeWebsiteTool
 from crewai.knowledge.source.pdf_knowledge_source import PDFKnowledgeSource
-from .models import (
+from models import (
     JobRequirements,
     ResumeOptimization,
     CompanyResearch
@@ -18,7 +18,7 @@ class ResumeCrew():
 
     def __init__(self) -> None:
         """Sample resume PDF for testing from https://www.hbs.edu/doctoral/Documents/job-market/CV_Mohan.pdf"""
-        self.resume_pdf = PDFKnowledgeSource(file_paths="CV_Mohan.pdf")
+        self.resume_pdf = PDFKnowledgeSource(file_paths="G Cella Resume April 2025.pdf")
 
     @agent
     def resume_analyzer(self) -> Agent:

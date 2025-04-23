@@ -17,8 +17,8 @@ class ResumeCrew():
     tasks_config = 'config/tasks.yaml'
 
     def __init__(self) -> None:
-        """Sample resume PDF for testing from https://www.hbs.edu/doctoral/Documents/job-market/CV_Mohan.pdf"""
-        self.resume_pdf = PDFKnowledgeSource(file_paths="G Cella Resume April 2025.pdf")
+        """Initialize the ResumeCrew with the resume PDF"""
+        self.resume_pdf = PDFKnowledgeSource(file_paths="../knowledge/G Cella Resume April 2025.pdf")
 
     @agent
     def resume_analyzer(self) -> Agent:
